@@ -6,9 +6,9 @@
 
 The problem solutions are entirely provided by [Rutvik Gondaliya](https://www.hackerrank.com/rutvikgondaliya). My primary purpose is to pass all the platform tests of a given problem. So that I did not follow any coding style. If you have any query then drop me message into [LinkedIn](https://www.linkedin.com/in/rutvik-gondaliya-8670741b6/) or else you can email me on `gondaliyarutvik281@gmail.com` like an old school people.
 ## Table of Contents
-1. [Certification](#certification)
+1. [Certification](#hackerrank-certification-solution)
 
-   1.2 [Python (Basic)](#python-basic)
+   1.2 [Python (Basic)](#hackerrank-certification-solution)
 
 ## Certification
 #### Python (Basic)
@@ -16,6 +16,5 @@ The problem solutions are entirely provided by [Rutvik Gondaliya](https://www.ha
 |:-:|:-:|:-:|
 |1|[Average Function](01.%20Problem.pdf)|[Solution](hackerrank-certification-solution/hackerrank-certification-solution/python-average-function/python_average_function.py /
 )|
-|2|[String Representations of Objects](01.%20Problem.pdf)|[Solution](hackerrank-certification-solution/hackerrank-certification-solution/python-average-function/python_average_function.py /
-)|
+|2|[String Representations of Objects](01.%20Problem.pdf)|[Solution](hackerrank-certification-solution/hackerrank-certification-solution/python-string-representation-of-objects/python-string-representation-of-objects.py /)|
 
