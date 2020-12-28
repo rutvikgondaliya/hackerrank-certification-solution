@@ -14,6 +14,8 @@ The problem solutions are entirely provided by [Rutvik Gondaliya](https://www.ha
 #### Python (Basic)
 |Problem No.|Challenge|Solution|
 |:-:|:-:|:-:|
-|1|[Average Function](01.%20Problem.pdf)|[Solution](Certification/02.%20Python%20(Basic)/03.%20Average%20Function/Solution.py)|
-|2|[String Representations of Objects](01.%20Problem.pdf)|[Solution](Certification/02.%20Python%20(Basic)/02.%20String%20Representations%20of%20Objects/Solution.py)|
+|1|[Average Function](01.%20Problem.pdf)|[Solution](hackerrank-certification-solution/hackerrank-certification-solution/python-average-function/python_average_function.py /
+)|
+|2|[String Representations of Objects](01.%20Problem.pdf)|[Solution](hackerrank-certification-solution/hackerrank-certification-solution/python-average-function/python_average_function.py /
+)|
 
